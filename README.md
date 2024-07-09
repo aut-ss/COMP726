@@ -43,7 +43,7 @@ Tutorial  8 - [Two-minute Presentations](tutorials/presentation_checkpoint.md)\
 Tutorial  9 - [NFTs Part I](tutorials/nft_1.md)📊✔️\
 Tutorial 10 - [IPFS & NFTs Part II](tutorials/nft_2.md)📊✔️\
 Tutorial 11 - Project Time & Portfolio Wrap-up\
-Tutorial 12 - Project Presentation\
+Tutorial 12 - Project Presentation
 
 ## Resources
 * [Course Discussion forum](https://canvas.aut.ac.nz/courses/15420/discussion_topics) (you also earn participation credit here)
