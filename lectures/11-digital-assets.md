@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 10: Digital Assets
+# Lecture 11: Digital Assets
 ### Contents
 1. [Asset Landscape](#the-asset-landscape)
 2. [DeFi](#decentralised-finance)
