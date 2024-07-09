@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 11: Web3.0 & the Metaverse
+# Lecture 3: Web3.0 & the Metaverse
 ## Contents
 1. [Web3](#web3)
 

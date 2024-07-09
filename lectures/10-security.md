@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 9: Security
+# Lecture 10: Security
 ## Contents
 1. [Blockchain Security Taxonomy](#blockchain-securitytaxonomy)
 1. [What did we miss?](#what-did-we-miss)

@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 5: Scaling
+# Lecture 6: Scaling
 ## Contents
 1. [Blockchain Stack](#blockchain-stack)
 2. [The Trilemma](#the-trilemma)

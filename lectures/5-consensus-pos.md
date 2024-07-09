@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 4: Consensus Part II: Proof of Stake & Alternatives
+# Lecture 5: Consensus Part II: Proof of Stake & Alternatives
 ## Contents
 1. [Proof of Stake](#proof-of-stake)
 2. [Digital Scarcity](#digital-scarcity)
@@ -153,7 +153,7 @@ Understanding consensus mechanisms in blockchain technology is crucial for build
 * Watch Lera Nikolaenko (a16z crypto research partner, super smart) given you the deep dive into Proof of Stake blockchains ([Youtube](https://www.youtube.com/watch?v=mZ-Ya7NRDxM))
 
 # Next Lecture
-* :point_right: [Network Scaling](5-scaling.md)
+* :point_right: [Network Scaling](6-scaling)
 
 # Video Lecture
 Here's this lecture recorded live August 08, 2023 on [YouTube](https://www.youtube.com/watch?v=vIMvtkeppaI).

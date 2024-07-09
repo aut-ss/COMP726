@@ -149,7 +149,7 @@ What do these blocks look like?
 > The fields of block `620229` mined on March 05, 2020 in the Bitcoin blockchain. The transaction list has been truncated; this block has 350 transactions in total. The block ID is called *height* as if blocks are built on top of each other. Details of a block can be found in many third-party providers such as [Blockchair.com](https://blockchair.com/bitcoin/block/620229), [Blockchain.com](https://www.blockchain.com/explorer/assets/btc), or [btc.network](https://btc.network/block/620229).
 
 ### Mining
-The process of adding blocks to the chain is called mining. Bitcoin mining is down with proof-of-work computing and involves rewarding lucky miners with bitcoin(s)[^b]. Mining is cruicial for the nodes in the Bitcoin network to stay in agreement, but also to generate new tokens for the system to use. This will be discussed at length in the lecture on [consensus methods](3-consensus-pow.md).
+The process of adding blocks to the chain is called mining. Bitcoin mining is down with proof-of-work computing and involves rewarding lucky miners with bitcoin(s)[^b]. Mining is cruicial for the nodes in the Bitcoin network to stay in agreement, but also to generate new tokens for the system to use. This will be discussed at length in the lecture on [consensus methods](4-consensus-pow).
 [^b]: Generally I will use "bitcoin" to be both singular and plural, holding back from the slighly awkwards "bitcoins". Also, Bitcoin with a capital B is to refer to the network consisting of nodes and miners, while small b is for the cryptocurrency.
 
 ### Cryptography

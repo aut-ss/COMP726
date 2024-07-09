@@ -7,46 +7,44 @@
 
 As always this crypto space moves fast :rocket: and so this is a work in progress 🚧
 
-The course website is hosted on Canvas (https://canvas.aut.ac.nz/courses/15420), however you need to be an enrolled student to login. This site serves as the open-source version. (You will still need to login to Canvas to view the assessment criteria and particiapate in the course discussion.) 
+The course website is hosted on Canvas (https://canvas.aut.ac.nz/courses/18030), however you need to be an enrolled student to login. This site serves as the open-source version. (You will still need to login to Canvas to view the assessment criteria and particiapate in the course discussion.) 
 
-Lectures are Mondays 13:10-15:00 in WZ519 beginning July 17, 2023\
-Tutorials are Wednesdays 12:10-14:00 in WS313-314 beginning July 19, 2023
+Lectures are Mondays 09:00 am - 11:00 am in WZ602 beginning July 15, 2024\
+Tutorials are Fridays 10:00 am - 12:00 pm in WZ602 beginning July 19, 2024
 
 ## Overview & Expectations
 Blockchain and Cryptocurency Technology intends to introduce you to the technology, beginning with Bitcoin, that makes peer-to-peer decentralised cash possible. Most of the topics will be applied to Bitcoin and Ethereum, and look into the solutions engineers are coming up with to build out these distributed systems. We will focus on the technilogical, but none of it is possible without the social and thus many topics have deep roots in the human societies we have constructed.
 
-Students are expected to **create**, and as such there is a large emphasis on the project which is wide-ranging and open-ended. You are expected to show what you've done at the end of semester, this is via mixed methods of presentation/ video/ demonstration/ discussion/ and written reporting. To get credit, You 👏 Must 👏 SHOW 👏 What 👏 You've 👏 Done. Assignment structure and details are on [Canvas](https://canvas.aut.ac.nz/courses/15420/assignments).
+Students are expected to **create**, and as such there is a large emphasis on the project which is wide-ranging and open-ended. You are expected to show what you've done at the end of semester, this is via mixed methods of presentation/ video/ demonstration/ discussion/ and written reporting. To get credit, You 👏 Must 👏 SHOW 👏 What 👏 You've 👏 Done. Assignment structure and details are on [Canvas](https://canvas.aut.ac.nz/courses/18030/assignments).
 
 ## Lecture Topics - Notes updated on the fly 🏃
 1. [Introduction & Bitcoin](lectures/1-bitcoin.md)
 2. [Cryptography](lectures/2-cryptography.md)
-3. [Consensus Part I: Proof of Work](lectures/3-consensus-pow.md)
-4. [Consensus Part II: Proof of Stake & Alternatives](lectures/4-consensus-pos.md)
-5. [Scaling](lectures/5-scaling.md)
-6. [Wallets & Tokens](lectures/6-wallets.md)
-7. [Ethereum](lectures/7-ethereum.md) 
-8. [Privacy](lectures/8-privacy.md)
-9. [Security](lectures/9-security.md)
-10. [Digital Assets](lectures/10-digital-assets.md)
-11. [Web3](lectures/11-web3.md) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
-12. [The Return to Money](lectures/12.md)
+3. [Web3](lectures/3-web3) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
+4. [Consensus Part I: Proof of Work](lectures/4-consensus-pow)
+5. [Consensus Part II: Proof of Stake & Alternatives](lectures/5-consensus-pos)
+6. [Scaling](lectures/6-scaling)
+7. [Wallets & Tokens](lectures/7-wallets)
+8. [Ethereum](lectures/8-ethereum) 
+9. [Privacy](lectures/9-privacy)
+10. [Security](lectures/10-security)
+11. [Digital Assets](lectures/11-digital-assets)
+12. [The Return to Money](lectures/12-back-to-money)
 
 ## Tutorials - Will be updated as we go
 Tutorial  1 - [Blockchain search and discovery](tutorials/blockchain_search.md)\
 Tutorial  2 - [Python Part I - Block structure, hashing & merkle trees](tutorials/python_blocks.ipynb)📊✔️\
-Tutorial  3 - [Python Part II - Elliptic curve cryptography](tutorials/python_ECC.ipynb)📊✔️\
-Tutorial  4 - 🚀**Seminar**⚡ with [Base58](https://base58.info/) & [Python Part III - Proof-of-Work: mining, difficulty, probability](tutorials/python_PoW.ipynb)📊✔️\
-Tutorial  5 - [Remix Part I - Solidity & IDE](tutorials/remix_1.md)📊✔️\
-Tutorial  6 - [Remix Part II - Metamask & Wallets](tutorials/remix_2.md)📊✔️\
-Tutorial  7 - [Two-minute Presentations](tutorials/presentation_checkpoint.md)\
-Tutorial  8 - [NFTs Part I](tutorials/nft_1.md)📊✔️\
-Tutorial  9 - [IPFS & NFTs Part II](tutorials/nft_2.md)📊✔️\
-Tutorial 10 - Layer Twos: Lightning [no exercises/incomplete🚧]\
-Tutorial 11 - Project Time\
-Tutorial 12 - Project Time & Portfolio Wrap-up\
-📊*Pick any three to submit for grading*\
-✔️*Exercises have been updated for submission*\
-❎*Exercises not ready for submission*
+Tutorial  3 - Project Time\
+Tutorial  4 - [Python Part II - Elliptic curve cryptography](tutorials/python_ECC.ipynb)📊✔️\
+Tutorial  5 - 🚀**Seminar**⚡ with [Base58](https://base58.info/) & [Python Part III - Proof-of-Work: mining, difficulty, probability](tutorials/python_PoW.ipynb)📊✔️\
+Tutorial  6 - [Remix Part I - Solidity & IDE](tutorials/remix_1.md)📊✔️\
+Tutorial  7 - [Remix Part II - Metamask & Wallets](tutorials/remix_2.md)📊✔️\
+Tutorial  8 - [Two-minute Presentations](tutorials/presentation_checkpoint.md)\
+Tutorial  9 - [NFTs Part I](tutorials/nft_1.md)📊✔️\
+Tutorial 10 - [IPFS & NFTs Part II](tutorials/nft_2.md)📊✔️\
+Tutorial 11 - Project Time & Portfolio Wrap-up\
+Tutorial 12 - Project Presentation\
+
 ## Resources
 * [Course Discussion forum](https://canvas.aut.ac.nz/courses/15420/discussion_topics) (you also earn participation credit here)
 * [ChatGPT](https://chat.openai.com/auth/login) - Get an account!

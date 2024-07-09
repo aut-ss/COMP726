@@ -1,6 +1,6 @@
 [↰ back](../../..)
 
-# Lecture 6: Wallets and Tokens
+# Lecture 7: Wallets and Tokens
 ## Contents
 1. [Wallets](#wallets)
 2. [Seed Phrases](#seed-phrases)

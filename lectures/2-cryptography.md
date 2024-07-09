@@ -333,7 +333,7 @@ echo -n "my name is Jeff" | shasum -a 256
 * NIST specification for SHA-1 [(pdf)](https://github.com/millecodex/COMP842/blob/master/papers/NIST.FIPS.180-4.pdf) (download for proper font rendering)
 
 # Next Lecture
-* :point_right: [Proof-of-Work Consensus](3-consensus-pow.md)
+* :point_right: [Proof-of-Work Consensus](4-consensus-pow)
 
 # References
 1. Antonopoulos, A. 2017. Mastering Bitcoin: Unlocking digital cryptocurrencies. O'Reilly Media, Inc.
