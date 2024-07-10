@@ -20,16 +20,16 @@ Students are expected to **create**, and as such there is a large emphasis on th
 ## Lecture Topics - Notes updated on the fly 🏃
 1. [Introduction & Bitcoin](lectures/1-bitcoin.md)
 2. [Cryptography](lectures/2-cryptography.md)
-3. [Web3](lectures/3-web3) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
-4. [Consensus Part I: Proof of Work](lectures/4-consensus-pow)
-5. [Consensus Part II: Proof of Stake & Alternatives](lectures/5-consensus-pos)
-6. [Scaling](lectures/6-scaling)
-7. [Wallets & Tokens](lectures/7-wallets)
-8. [Ethereum](lectures/8-ethereum) 
-9. [Privacy](lectures/9-privacy)
-10. [Security](lectures/10-security)
-11. [Digital Assets](lectures/11-digital-assets)
-12. [The Return to Money](lectures/12-back-to-money)
+3. [Web3](lectures/3-web3.md) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
+4. [Consensus Part I: Proof of Work](lectures/4-consensus-pow.md)
+5. [Consensus Part II: Proof of Stake & Alternatives](lectures/5-consensus-pos.md)
+6. [Scaling](lectures/6-scaling.md)
+7. [Wallets & Tokens](lectures/7-wallets.md)
+8. [Ethereum](lectures/8-ethereum.md) 
+9. [Privacy](lectures/9-privacy.md)
+10. [Security](lectures/10-security.md)
+11. [Digital Assets](lectures/11-digital-assets.md)
+12. [The Return to Money](lectures/12-back-to-money.md)
 
 ## Tutorials - Will be updated as we go
 Tutorial  1 - [Blockchain search and discovery](tutorials/blockchain_search.md)\
