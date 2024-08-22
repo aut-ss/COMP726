@@ -62,11 +62,11 @@ To interact with our deployed contract, click > STORAGE AT 0X.... in the bottom 
 
 
 ## Exercises
-1. Using remix, modify the Storage.sol contract to store and retrieve a text variable: yourName. How much gas does this use, how does this compare to storing an integer?
-2. Where is a deployed contract stored in Ethereum? Comment on the different gas costs for a) deploying a contract, b) calling a function, and c) storing an address.
-3. Above, where it says STORAGE AT 0X...., what does this mean? Are there differences between someone's Ethereum Address and where your contract is stored?
-4. Open Owner.sol in Remix. What does this contract do? Why would this be required?
-5. What are two development enviornments or tool packages that can help with Ethereum smart contract development (besides Remix)? Choose one of these and setup your local environment to start using it. Include a screenshot showing your dev environment.
+1. (10 marks) Using remix, modify the Storage.sol contract to store and retrieve a text variable: yourName. How much gas does this use, how does this compare to storing an integer?
+2. (20 marks) Where is a deployed contract stored in Ethereum? Comment on the different gas costs for a) deploying a contract, b) calling a function, and c) storing an address.
+3. (30 marks) Above, where it says STORAGE AT 0X...., what does this mean? Are there differences between someone's Ethereum Address and where your contract is stored?
+4. (20 marks) Open Owner.sol in Remix. What does this contract do? Why would this be required?
+5. (20 marks) What are two development enviornments or tool packages that can help with Ethereum smart contract development (besides Remix)? Choose one of these and setup your local environment to start using it. Include a screenshot showing your dev environment.
 
 
 ## Developer Learning Tools & Resources
