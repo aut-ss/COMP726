@@ -92,6 +92,9 @@ Claiming the GoerliETH will *actually* be verified onchain, as opposed to a virt
 ### Sepolia
 Goerli is deprecated and Sepolia is the primary testnet. Try the sepolia/alchemy faucet here: https://sepoliafaucet.com/
 
+### holešky
+Holesky was launched on September 2023, replacing the Goerli test network. This new network uses Holesky ETH tokens and serves as a test environment for consensus staking, infrastructure, and protocols. Try the Holesky/sepolia faucet here: https://cloud.google.com/application/web3/faucet
+
 ### Lets use some ETH (finally)
 1. In the `File explorer` tab open the `2_Owner.sol` contract template
 2. In the `Solidity compiler` tab click the button that says `Compile 2_Owner.sol`
