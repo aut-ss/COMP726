@@ -179,7 +179,7 @@ In the command line: `npx hardhat --network goerli run scripts/deploy.js` and yo
 
 ![hardhat_contract_deployed](https://user-images.githubusercontent.com/39792005/192403178-b798cbb5-71a4-4bda-a947-0abcc4fa040b.png)
 
-Copy the address and go to https://goerli.etherscan.io/ and search for it.
+Copy the address and go to https://holesky.etherscan.io/ and search for it.
 
 ![goerli_scan_contract_deployment](https://user-images.githubusercontent.com/39792005/192403228-b22f0a34-8905-45a0-b28f-978928b60d14.png)
 
