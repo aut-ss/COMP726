@@ -7,20 +7,20 @@
 
 As always this crypto space moves fast :rocket: and so this is a work in progress 🚧
 
-The course website is hosted on Canvas (https://canvas.aut.ac.nz/courses/18030), however you need to be an enrolled student to login. This site serves as the open-source version. (You will still need to login to Canvas to view the assessment criteria and particiapate in the course discussion.) 
+The course website is hosted on Canvas (https://canvas.aut.ac.nz/courses/20856), however you need to be an enrolled student to login. This site serves as the open-source version. (You will still need to login to Canvas to view the assessment criteria and particiapate in the course discussion.) 
 
-Lectures are Mondays 09:00 am - 11:00 am in WZ602 beginning July 15, 2024\
-Tutorials are Fridays 10:00 am - 12:00 pm in WZ602 beginning July 19, 2024
+Lectures are Mondays 12:00 pm - 02:00 pm in WZ519 beginning July 21, 2025\
+Tutorials are Fridays 16:00 pm - 18:00 pm in WZ519 beginning July 25, 2025
 
 ## Overview & Expectations
 Blockchain and Cryptocurency Technology intends to introduce you to the technology, beginning with Bitcoin, that makes peer-to-peer decentralised cash possible. Most of the topics will be applied to Bitcoin and Ethereum, and look into the solutions engineers are coming up with to build out these distributed systems. We will focus on the technilogical, but none of it is possible without the social and thus many topics have deep roots in the human societies we have constructed.
 
-Students are expected to **create**, and as such there is a large emphasis on the project which is wide-ranging and open-ended. You are expected to show what you've done at the end of semester, this is via mixed methods of presentation/ video/ demonstration/ discussion/ and written reporting. To get credit, You 👏 Must 👏 SHOW 👏 What 👏 You've 👏 Done. Assignment structure and details are on [Canvas](https://canvas.aut.ac.nz/courses/18030/assignments).
+Students are expected to **create**, and as such there is a large emphasis on the project which is wide-ranging and open-ended. You are expected to show what you've done at the end of semester, this is via mixed methods of presentation/ video/ demonstration/ discussion/ and written reporting. To get credit, You 👏 Must 👏 SHOW 👏 What 👏 You've 👏 Done. Assignment structure and details are on [Canvas](https://canvas.aut.ac.nz/courses/20856/assignments).
 
 ## Lecture Topics - Notes updated on the fly 🏃
 1. [Introduction & Bitcoin](lectures/1-bitcoin.md)
 2. [Cryptography](lectures/2-cryptography.md)
-3. [Web3](lectures/3-web3.md) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
+3. [Blockchain & Crypto - From Hype to Infrastructure](lectures/3-web3.md) & 🚀**Seminar**⚡ by [Ryan Johnson-Hunt](https://linktr.ee/ryanjohnsonhunt)
 4. [Consensus Part I: Proof of Work](lectures/4-consensus-pow.md)
 5. [Consensus Part II: Proof of Stake & Alternatives](lectures/5-consensus-pos.md)
 6. [Scaling](lectures/6-scaling.md)
@@ -34,12 +34,12 @@ Students are expected to **create**, and as such there is a large emphasis on th
 ## Tutorials - Will be updated as we go
 Tutorial  1 - [Blockchain search and discovery](tutorials/blockchain_search.md)\
 Tutorial  2 - [Python Part I - Block structure, hashing & merkle trees](tutorials/python_blocks.ipynb)📊✔️\
-Tutorial  3 - Project Time\
-Tutorial  4 - [Python Part II - Elliptic curve cryptography](tutorials/python_ECC.ipynb)📊✔️\
-Tutorial  5 - 🚀**Seminar**⚡ with [Base58](https://base58.info/) & [Python Part III - Proof-of-Work: mining, difficulty, probability](tutorials/python_PoW.ipynb)📊✔️\
-Tutorial  6 - [Remix Part I - Solidity & IDE](tutorials/remix_1.md)📊✔️\
-Tutorial  7 - [Remix Part II - Metamask & Wallets](tutorials/remix_2.md)📊✔️\
-Tutorial  8 - [Two-minute Presentations](tutorials/presentation_checkpoint.md)\
+Tutorial  3 - [Python Part II - Elliptic curve cryptography](tutorials/python_ECC.ipynb)📊✔️\
+Tutorial  4 - 🚀**Seminar**⚡ with [Base58](https://base58.info/) & [Python Part III - Proof-of-Work: mining, difficulty, probability](tutorials/python_PoW.ipynb)📊✔️\
+Tutorial  5 - [Remix Part I - Solidity & IDE](tutorials/remix_1.md)📊✔️\
+Tutorial  6 - [Ten-minute Presentations](tutorials/presentation_checkpoint.md)\
+Tutorial  7 - Project Time and Technical Ex.\
+Tutorial  8 - [Remix Part II - Metamask & Wallets](tutorials/remix_2.md)📊✔️\
 Tutorial  9 - [NFTs Part I](tutorials/nft_1.md)📊✔️\
 Tutorial 10 - [IPFS & NFTs Part II](tutorials/nft_2.md)📊✔️\
 Tutorial 11 - Project Time & Portfolio Wrap-up\
@@ -66,6 +66,8 @@ Resources that may be helpful for the technical aspects of this course
 * [Cryptocurrency Engineering And Design](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/) (MIT)
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/) (Princeton)
 * [CS251: Blockchain Technologies](https://cs251.stanford.edu/syllabus.html) (Stanford)
+* [EE374: Scaling Blockchains](https://web.stanford.edu/class/archive/ee/ee374/ee374.1206/) (Stanford)
+* [Foundations of Blockchains](https://timroughgarden.github.io/fob21/) (Columbia)
 
 ## Other Academic Blockchain(esque) Groups
 * [Resistance Money](https://www.resistance.money/) (Wyoming)

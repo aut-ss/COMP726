@@ -32,7 +32,7 @@ The rise of blockchains as open permissionless decentralized networks is disrupt
 1. exercises here
 
 # Readings
-* [The State of Crypto 2023](https://a16zcrypto.com/posts/article/state-of-crypto-report-2023/) report by a16z
+* [The State of Crypto Report 2024: New Data on Swing States, Stablecoins, AI, Builder Energy and More](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/) report by [Daren Matsuoka](https://a16zcrypto.com/team/daren-matsuoka/), [Robert Hackett](https://a16zcrypto.com/team/robert-hackett/) and [Eddy Lazzarin](https://a16zcrypto.com/team/eddy-lazzarin/)
 
 # Lecture Video
 To be posted.
